@@ -1,0 +1,25 @@
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\bin\Debug\Görkem Pansiyon v1.0.exe.config
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\bin\Debug\Görkem Pansiyon v1.0.exe
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\bin\Debug\Görkem Pansiyon v1.0.pdb
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Görkem Pansiyon v1.0.csproj.AssemblyReference.cache
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Görkem_Pansiyon_v1._0.Properties.Resources.resources
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Görkem Pansiyon v1.0.csproj.GenerateResource.cache
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Görkem Pansiyon v1.0.csproj.CoreCompileInputs.cache
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Görkem Pansiyon v1.0.exe
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Görkem Pansiyon v1.0.pdb
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Görkem_Pansiyon_v1._0.FormYeniMusteri.resources
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Görkem_Pansiyon_v1._0.FormAdminGiris.resources
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Görkem_Pansiyon_v1._0.FormAnaForm.resources
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Görkem_Pansiyon_v1._0.FormOdalar.resources
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Görkem_Pansiyon_v1._0.FormMusteriler.resources
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Görkem_Pansiyon_v1._0.FormGelirGider.resources
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Görkem_Pansiyon_v1._0.FormStoklar.resources
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Görkem Pansiyon v1.0.csproj.ResolveComReference.cache
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Görkem_Pansiyon_v1._0.FormRadyo.resources
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Görkem_Pansiyon_v1._0.FormGazete.resources
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Görkem_Pansiyon_v1._0.FormSifreGuncelle.resources
+C:\Users\can_a\source\repos\Görkem Pansiyon v1.0\Görkem Pansiyon v1.0\obj\Debug\Görkem_Pansiyon_v1._0.FormMesajlar.resources
