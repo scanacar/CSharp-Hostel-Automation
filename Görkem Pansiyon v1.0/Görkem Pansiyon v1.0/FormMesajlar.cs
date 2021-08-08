@@ -18,7 +18,7 @@ namespace Görkem_Pansiyon_v1._0
         {
             InitializeComponent();
         }
-        SqlConnection baglanti = new SqlConnection(@"Data Source=DESKTOP-GQKM17U\SQLEXPRESS;Initial Catalog=GorkemPansiyonDB;Integrated Security=True");
+       
         private void button1_Click(object sender, EventArgs e)
         {
             baglanti.Open();
